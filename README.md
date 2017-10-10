@@ -5,4 +5,4 @@ This repository contains the complete set of data collected during the experimen
 
 The excel spreadsheets contain the raw data. The file ‘DATA_SHEET_KEY.xlsx’ provides details on the data contained in each sheet (additional details are provided in ‘SuppInfo_LaferSousa2015CB.pdf’).  The file ‘DATA_SHEET_KEY.xlsx’ provides details on the data contained in each sheet (additional details are provided in ‘SuppInfo_LaferSousa2015CB.pdf’) <br/>
 
-Processed data (in the form of .mat files) and Analysis code (Matlab) used to qunatify some of the main findings and generate figures will also be deposited here.  
+Processed data and Analysis code (Matlab) to qunatify some of the main findings and generate figures will also be deposited here.  
