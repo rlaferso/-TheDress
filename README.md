@@ -5,7 +5,7 @@ This repository contains the complete set of data collected during the experimen
 
 Processed data and Analysis code (Matlab) to quantify some of the main findings and generate figures will also be deposited here.  Code to generate Figures 1, 2, and 7 from (Lafer-Sousa, R., & Conway, B. R. (2017) is currently provided.  
 
-The orignial stimuli used in our experiments are provided in the STIMULI folder . An additonal subdirectory contains an unpublished demo where a portion of the dress was modified to form a chip that can be placed in any scene. We suspect this will be a useful tool for using #theDress to test further hypotheses about the cues/mechanisms that support color constancy. 
+The stimuli used in our experiments are provided in the STIMULI folder . An additonal subdirectory therein contains an unpublished stimulus: a 'dress tile' (made from a portion of the dress image) that can be placed in any scene (we demonstrate this using Beau Lotto's cubes, but a file containing the isolated tile is also provided). We suspect this will be a useful tool for researchers looking to use #theDress to test hypotheses about the cues/mechanisms that support color constancy. 
 
 The RAW DATA folder contains excel spreadsheets of our raw data. The file ‘DATA_SHEET_KEY.xlsx’ provides details on the data contained in each sheet (additional details are provided in ‘SuppInfo_LaferSousa2015CB.pdf’).  The file ‘DATA_SHEET_KEY.xlsx’ provides details on the data contained in each spreadsheet (additional experimental details are provided in ‘SuppInfo_LaferSousa2015CB.pdf’) <br/>
 
