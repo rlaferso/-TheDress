@@ -8,4 +8,6 @@ The RAW DATA folder contains excel spreadsheets of our raw data. The file ‘DAT
 Processed data and Analysis code (Matlab) to quantify some of the main findings and generate figures will also be deposited here.  
 Code to generate Figures 1, 2, and 7 from (Lafer-Sousa, R., & Conway, B. R. (2017) is currently provided.  
 
+The orignial stimuli used in our experiments are provided in the STIMULI folder . An additonal subdirectory contains an unpublished demo where a portion of the dress was modified to form a chip that can be placed in any scene. We suspect this will be a useful tool for using #theDress to test further hypotheses about the cues/mechanisms that support color constancy. 
+
 You have permission to use the data, code, and stimuli provided here so long as you cite our published work and this repoistory.
