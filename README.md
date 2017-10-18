@@ -7,3 +7,5 @@ The excel spreadsheets contain the raw data. The file ‘DATA_SHEET_KEY.xlsx’ 
 
 Processed data and Analysis code (Matlab) to quantify some of the main findings and generate figures will also be deposited here.  
 Code to generate Figures 1, 2, and 7 from (Lafer-Sousa, R., & Conway, B. R. (2017) is currently provided.  
+
+You have permission to use the data and code provided here so long as our published work is cited.
