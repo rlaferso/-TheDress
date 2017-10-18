@@ -10,4 +10,4 @@ The stimuli used in our experiments are provided in the STIMULI folder . An addi
 The RAW DATA folder contains excel spreadsheets of our raw data. The file ‘DATA_SHEET_KEY.xlsx’ provides details on the data contained in each sheet (additional details are provided in ‘SuppInfo_LaferSousa2015CB.pdf’).  The file ‘DATA_SHEET_KEY.xlsx’ provides details on the data contained in each spreadsheet (additional experimental details are provided in ‘SuppInfo_LaferSousa2015CB.pdf’) <br/>
 
 
-You have permission to use the data, code, and stimuli provided here so long as you cite our published work and this repoistory.
+You have permission to use the data, code, and stimuli provided here so long as you cite our published work and this repository.
